@@ -1,0 +1,9 @@
+numpy
+pandas
+tensorflow>=2.10
+scikit-learn
+flask
+river
+tqdm
+streamlit
+requests
